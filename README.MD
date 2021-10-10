@@ -12,8 +12,8 @@ Uma rede livre de escala é uma rede cuja distribuição de graus segue uma lei 
 $P(k) ~ k^-\gamma$
 
 modelo com função "gerar_rede(numero de nós, taxa de conexão)" com os seguintes parâmetros:
-*numero de nós: quantidade de nós na rede.
-*taxa de conexão: taxa de quantos nós serão conectados em relação ao potencial maximo de conexão. (valor entre 0 e 1)
+* numero de nós: quantidade de nós na rede.
+* taxa de conexão: taxa de quantos nós serão conectados em relação ao potencial maximo de conexão. (valor entre 0 e 1)
 
 ![rede livre de escala](https://raw.githubusercontent.com/RosalRicardo/teoria-dos-grafos/redes-complexas/src/redes%20livre%20de%20escala/exemplos/redelivreescala.png "Exemplo - rede livre de escala")
 
