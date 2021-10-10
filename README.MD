@@ -11,6 +11,8 @@ Uma rede livre de escala é uma rede cuja distribuição de graus segue uma lei 
 
 $P(k) ~ k^-\gamma$
 
+![alt text](.\exemplos\redelivreescala.png "Title")
+
 #### Rede de Barabasi
 
 ### Grafos
