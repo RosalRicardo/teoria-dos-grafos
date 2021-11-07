@@ -20,3 +20,5 @@ modelo com função "gerar_rede(numero de nós, taxa de conexão)" com os seguin
 #### Rede de Barabasi
 
 ### Grafos
+
+referencia: https://plotly.com/python/network-graphs/
